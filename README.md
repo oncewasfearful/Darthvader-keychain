@@ -26,6 +26,5 @@ BACK
 ![BACk VIEW](images/backsilk.PNG)
 
 ## 🧑‍💻 Slack Username
-<<<<<<< HEAD
 **@Fearless**
 =======
