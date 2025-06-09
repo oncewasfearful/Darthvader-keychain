@@ -23,13 +23,9 @@ FRONT
 ![FRONT VIEW](images/front3d.PNG)
 
 BACK
-![BACk VIEW](images/back3d.PNG)
+![BACk VIEW](images/backsilk.PNG)
 
 ## 🧑‍💻 Slack Username
 <<<<<<< HEAD
 **@Fearless**
 =======
-**@Fearless**--Display NAME
-**@Saksham Kumar**
-
->>>>>>> 6082cb30f04882f1b1ed844a85c57ab0d386b863
